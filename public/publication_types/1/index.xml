@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Shirui Pan</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 10 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Domain-Adversarial Graph Neural Networks for Text Classification</title>
+      <link>/publication/2019-08-10_domain-adversarial/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-10_domain-adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation Structure-Aware Heterogeneous Graph Neural Network</title>
+      <link>/publication/2019-08-10_relation-structure/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-10_relation-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-short Distance Aggregation Networks for Positive Unlabeled Graph Learning</title>
+      <link>/publication/2019-08-09_long-short_distance/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-09_long-short_distance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph WaveNet for Deep Spatial-Temporal Graph Modeling</title>
+      <link>/publication/2019-05-28_spatial-temporal/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_spatial-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Bit Quantization for Attributed Network Representation Learning</title>
+      <link>/publication/2019-05-28_low-bit/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_low-bit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attributed Graph Clustering: A Deep Attentional Embedding Approach</title>
+      <link>/publication/2019-05-28_attribute-graph/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_attribute-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label Embedding with Partial Heterogeneous Contexts</title>
+      <link>/publication/2019-01-27_label-embedding/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-27_label-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binarized Attributed Network Embedding</title>
+      <link>/publication/2018-11-17_binarized_attributed_network/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-11-17_binarized_attributed_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Discriminative Network Representation Learning</title>
+      <link>/publication/2018-01-01_active-discriminative/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_active-discriminative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarially Regularized Graph Autoencoder for Graph Embedding</title>
+      <link>/publication/2018-01-01_adversarially-regularized/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_adversarially-regularized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Network Embedding</title>
+      <link>/publication/2018-01-01_discrete-network-embedding/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_discrete-network-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-sensitive Hybrid Neural Networks for Heterogeneous and Imbalanced Data</title>
+      <link>/publication/2018-01-01_cost-sensitive-hybrid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_cost-sensitive-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-domain Deep Learning Approach for Multiple Financial Market Prediction</title>
+      <link>/publication/2018-01-01_cross-domain/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_cross-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding</title>
+      <link>/publication/2018-01-01_disan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_disan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FraudNE: a Joint Embedding Approach for Fraud Detection</title>
+      <link>/publication/2018-01-01_fraudne/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_fraudne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph ladder networks for network classification</title>
+      <link>/publication/2017-01-01_graph_ladder_network/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_graph_ladder_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MGAE: Marginalized graph autoencoder for graph clustering</title>
+      <link>/publication/2017-01-01_mgae_marginalized_gr/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_mgae_marginalized_gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal network representation for heterogeneous information networks</title>
+      <link>/publication/2017-01-01_universal_network_re/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_universal_network_re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-clustering enterprise social networks</title>
+      <link>/publication/2016-01-01_co-clustering_enterp/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_co-clustering_enterp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct discriminative bag mapping for multi-instance learning</title>
+      <link>/publication/2016-01-01_direct_discriminativ/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_direct_discriminativ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative views agreement: An iterative low-rank based structured optimization method to multi-view spectral clustering</title>
+      <link>/publication/2016-01-01_iterative_views_agre/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_iterative_views_agre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint structure feature exploration and regularization for multi-task graph classification</title>
+      <link>/publication/2016-01-01_joint_structure_feat/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_joint_structure_feat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tri-party deep network representation</title>
+      <link>/publication/2016-01-01_tri-party_deep_netwo/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_tri-party_deep_netwo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph-view learning for complicated object classification</title>
+      <link>/publication/2015-01-01_multi-graph-view_lea/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_multi-graph-view_lea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribute weighting: How and when does it work for Bayesian Network Classification</title>
+      <link>/publication/2014-01-01_attribute_weighting_/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014-01-01_attribute_weighting_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual instance and attribute weighting for Naive Bayes classification</title>
+      <link>/publication/2014-01-01_dual_instance_and_at/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014-01-01_dual_instance_and_at/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring features for complicated objects: Cross-view feature selection for multi-instance learning</title>
+      <link>/publication/2014-01-01_exploring_features_f/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014-01-01_exploring_features_f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph classification with imbalanced class distributions and noise</title>
+      <link>/publication/2013-01-01_graph_classification/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013-01-01_graph_classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph stream classification using labeled and unlabeled graphs</title>
+      <link>/publication/2013-01-01_graph_stream_classif/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013-01-01_graph_stream_classif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CGStream: Continuous correlated graph query for data streams</title>
+      <link>/publication/2012-01-01_cgstream_continuous_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012-01-01_cgstream_continuous_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous top-k query for graph streams</title>
+      <link>/publication/2012-01-01_continuous_top-k_que/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012-01-01_continuous_top-k_que/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top-k correlated subgraph query for data streams</title>
+      <link>/publication/2012-01-01_top-k_correlated_sub/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012-01-01_top-k_correlated_sub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble of multiple descriptors for automatic image annotation</title>
+      <link>/publication/2010-01-01_ensemble_of_multiple/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2010-01-01_ensemble_of_multiple/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shirui Pan</title>
+    <link>/authors/archive/yixin-liu/</link>
+      <atom:link href="/authors/archive/yixin-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shirui Pan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Shirui Pan</title>
+      <link>/authors/archive/yixin-liu/</link>
+    </image>
+    
+  </channel>
+</rss>

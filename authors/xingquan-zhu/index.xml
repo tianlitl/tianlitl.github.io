@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xingquan Zhu | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/xingquan-zhu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/xingquan-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xingquan Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 12:15:49 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Xingquan Zhu</title>
+      <link>https://shiruipan.github.io/authors/xingquan-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Domain Adaptive Graph Convolutional Networks</title>
+      <link>https://shiruipan.github.io/publication/www-2020-wu/</link>
+      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-2020-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain-Adversarial Graph Neural Networks for Text Classification</title>
+      <link>https://shiruipan.github.io/publication/icdm-19-wu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-19-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation Structure-Aware Heterogeneous Graph Neural Network</title>
+      <link>https://shiruipan.github.io/publication/icdm-19-zhu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-19-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFOND: consensus factorization for co-clustering networked data</title>
+      <link>https://shiruipan.github.io/publication/guo-cfond-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/guo-cfond-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hashing for adaptive real-time graph stream classification with concept drifts</title>
+      <link>https://shiruipan.github.io/publication/chi-hashing-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/chi-hashing-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-instance learning with discriminative bag mapping</title>
+      <link>https://shiruipan.github.io/publication/wu-multi-instance-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multi-instance-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple structure-view learning for graph classification</title>
+      <link>https://shiruipan.github.io/publication/wu-multiple-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multiple-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting for graph classification with universum</title>
+      <link>https://shiruipan.github.io/publication/pan-boosting-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-boosting-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MGAE: marginalized graph autoencoder for graph clustering</title>
+      <link>https://shiruipan.github.io/publication/wang-mgae-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wang-mgae-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positive and unlabeled multi-graph learning</title>
+      <link>https://shiruipan.github.io/publication/wu-positive-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-positive-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task sensitive feature exploration and learning for multitask graph classification</title>
+      <link>https://shiruipan.github.io/publication/pan-task-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-task-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-clustering enterprise social networks</title>
+      <link>https://shiruipan.github.io/publication/hu-co-clustering-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/hu-co-clustering-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct discriminative bag mapping for multi-instance learning</title>
+      <link>https://shiruipan.github.io/publication/wu-direct-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-direct-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint structure feature exploration and regularization for multi-task graph classification</title>
+      <link>https://shiruipan.github.io/publication/pan-joint-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-joint-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph-view subgraph mining for graph classification</title>
+      <link>https://shiruipan.github.io/publication/wu-multi-graph-view-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multi-graph-view-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SODE: Self-adaptive one-dependence estimators for classification</title>
+      <link>https://shiruipan.github.io/publication/wu-sode-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-sode-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tri-party deep network representation</title>
+      <link>https://shiruipan.github.io/publication/pan-tri-party-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-tri-party-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting for multi-graph classification</title>
+      <link>https://shiruipan.github.io/publication/wu-boosting-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-boosting-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CogBoost: boosting for fast cost-sensitive graph classification</title>
+      <link>https://shiruipan.github.io/publication/pan-cogboost-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-cogboost-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the best not the most: regularized loss minimization subgraph selection for graph classification</title>
+      <link>https://shiruipan.github.io/publication/pan-finding-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-finding-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph ensemble boosting for imbalanced noisy graph stream classification</title>
+      <link>https://shiruipan.github.io/publication/pan-graph-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-graph-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph-view learning for complicated object classification</title>
+      <link>https://shiruipan.github.io/publication/wu-multi-graph-view-2015-1/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multi-graph-view-2015-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph-view Learning for Graph Classification</title>
+      <link>https://shiruipan.github.io/publication/wu-multi-graph-view-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multi-graph-view-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-adaptive attribute weighting for Naive Bayes classification</title>
+      <link>https://shiruipan.github.io/publication/wu-self-adaptive-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-self-adaptive-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribute weighting: how and when does it work for Bayesian Network Classification</title>
+      <link>https://shiruipan.github.io/publication/wu-attribute-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-attribute-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual instance and attribute weighting for Naive Bayes classification</title>
+      <link>https://shiruipan.github.io/publication/wu-dual-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-dual-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring features for complicated objects: cross-view feature selection for multi-instance learning</title>
+      <link>https://shiruipan.github.io/publication/wu-exploring-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-exploring-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph learning with positive and unlabeled bags</title>
+      <link>https://shiruipan.github.io/publication/wu-multi-graph-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multi-graph-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph classification with imbalanced class distributions and noise</title>
+      <link>https://shiruipan.github.io/publication/pan-graph-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-graph-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph stream classification using labeled and unlabeled graphs</title>
+      <link>https://shiruipan.github.io/publication/pan-graph-2013-1/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-graph-2013-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CGStream: Continuous correlated graph query for data streams</title>
+      <link>https://shiruipan.github.io/publication/pan-cgstream-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-cgstream-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous top-k query for graph streams</title>
+      <link>https://shiruipan.github.io/publication/pan-continuous-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-continuous-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top-k correlated subgraph query for data streams</title>
+      <link>https://shiruipan.github.io/publication/pan-top-k-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-top-k-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

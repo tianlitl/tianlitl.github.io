@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ling Chen | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/ling-chen/</link>
+      <atom:link href="https://shiruipan.github.io/authors/ling-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ling Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Ling Chen</title>
+      <link>https://shiruipan.github.io/authors/ling-chen/</link>
+    </image>
+    
+    <item>
+      <title>Low-Bit Quantization for Attributed Network Representation Learning</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2019-yang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2019-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binarized attributed network embedding</title>
+      <link>https://shiruipan.github.io/publication/yang-binarized-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/yang-binarized-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hashing for adaptive real-time graph stream classification with concept drifts</title>
+      <link>https://shiruipan.github.io/publication/chi-hashing-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/chi-hashing-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards large-scale social networks with online diffusion provenance detection</title>
+      <link>https://shiruipan.github.io/publication/wang-towards-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wang-towards-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial-intelligence on Shirui Pan</title>
+    <link>/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial-intelligence on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Broadlink AI System and Smart Air-Conditioner</title>
+      <link>/project/smart-home/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/smart-home/</guid>
+      <description>This project aims to design an artificially intelligent system for a Chinese company, Broadlink, to predict user behaviors of using air-conditioners. Key tasks include:
+ Opening Setting Prediction: when a user turn on the air-conditioner, what are his/her expected temperature, wind direction, and wind speed? Setting Adjustment Prediction: when will the user change the setting of air-conditioner after it is turned on? Device Closure Prediction: when will a user turn off the air-conditioner?</description>
+    </item>
+    
+  </channel>
+</rss>

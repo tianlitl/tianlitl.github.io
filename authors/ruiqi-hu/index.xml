@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/ruiqi-hu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/ruiqi-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shirui Pan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/ruiqi-hu/</link>
+    </image>
+    
+    <item>
+      <title>Going Deep: Graph Convolutional Ladder-shape Networks</title>
+      <link>https://shiruipan.github.io/publication/aaai-2020-hu/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Social Audiences in Business Information Networks</title>
+      <link>https://shiruipan.github.io/publication/pr-2019-zheng/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pr-2019-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graph Embedding With Adversarial Training Methods</title>
+      <link>https://shiruipan.github.io/publication/tcyb-2019-pan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tcyb-2019-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attributed Graph Clustering: A Deep Attentional Embedding Approach</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2019-wang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2019-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarially regularized graph autoencoder for graph embedding</title>
+      <link>https://shiruipan.github.io/publication/pan-adversarially-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-adversarially-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph ladder networks for network classification</title>
+      <link>https://shiruipan.github.io/publication/hu-graph-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/hu-graph-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal network representation for heterogeneous information networks</title>
+      <link>https://shiruipan.github.io/publication/hu-universal-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/hu-universal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-clustering enterprise social networks</title>
+      <link>https://shiruipan.github.io/publication/hu-co-clustering-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/hu-co-clustering-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

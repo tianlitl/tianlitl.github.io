@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Nerual Networks on Shirui Pan</title>
+    <link>/tags/graph-nerual-networks/</link>
+    <description>Recent content in Graph Nerual Networks on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 10 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/graph-nerual-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Domain-Adversarial Graph Neural Networks for Text Classification</title>
+      <link>/publication/2019-08-10_domain-adversarial/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-10_domain-adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation Structure-Aware Heterogeneous Graph Neural Network</title>
+      <link>/publication/2019-08-10_relation-structure/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-10_relation-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-short Distance Aggregation Networks for Positive Unlabeled Graph Learning</title>
+      <link>/publication/2019-08-09_long-short_distance/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-09_long-short_distance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

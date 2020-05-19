@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Min Zuo | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/min-zuo/</link>
+      <atom:link href="https://shiruipan.github.io/authors/min-zuo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Min Zuo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Min Zuo</title>
+      <link>https://shiruipan.github.io/authors/min-zuo/</link>
+    </image>
+    
+    <item>
+      <title>Measuring distance-based semantic similarity using meronymy and hyponymy relations</title>
+      <link>https://shiruipan.github.io/publication/cai-measuring-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cai-measuring-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

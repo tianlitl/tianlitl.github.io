@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Shirui Pan</title>
+    <link>https://shiruipan.github.io/post/</link>
+      <atom:link href="https://shiruipan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://shiruipan.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Full Publication</title>
+      <link>https://shiruipan.github.io/post/fullpublication/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/post/fullpublication/</guid>
+      <description>&lt;script src=&#34;https://bibbase.org/service/mendeley/845d9803-ef10-3e54-8e7e-4386f4630c87?jsonp=1&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD/Visitor Positions</title>
+      <link>https://shiruipan.github.io/post/phd_position/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/post/phd_position/</guid>
+      <description>
+
+&lt;p&gt;I am looking for self-motivated Ph.D students funded by: (1) &lt;a href=&#39;https://www.monash.edu/graduate-research/future-students/scholarships&#39;&gt; Monash Scholarships&lt;/a&gt;, and (2)&lt;a href=&#34;https://www.monash.edu/graduate-research/future-students/scholarships/china-scholarship-council&#34;&gt; China Scholarship Council (CSC)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt; [28/11/2019] Only one Phd position left. Drop me an email now! The research topic is on Knowledge Graph/Heterogeneous Information Networks/GNN for NLP.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Visitor positions for 2020 are &lt;b&gt;ALL&lt;/b&gt; filled.&lt;/p&gt;
+
+&lt;h3 id=&#34;institution&#34;&gt;Institution&lt;/h3&gt;
+
+&lt;p&gt;Monash University is one of the prestigious universities in Australia. It is a member of &amp;ldquo;Group of Eight&amp;rdquo;. Monash University is ranked in the top 75 globally in the following ranking systems:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2020 QS Ranking: 58&lt;/li&gt;
+&lt;li&gt;2020 US News Ranking:62&lt;/li&gt;
+&lt;li&gt;2020 Times Higher Education World University Ranking: 75&lt;/li&gt;
+&lt;li&gt;2019 Academic Ranking of World Universities Ranking: 73&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;research-group&#34;&gt;Research Group&lt;/h3&gt;
+
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt; Group members can be found &lt;a href=&#39;http://shiruipan.github.io/#people&#39;&gt; here  &lt;/a&gt; &lt;/span&gt;.
+This research group mainly focuses on data mining, machine learning, NLP, deep learning, graph data analytics, and AI applications. The research group consists of a number of Phd students working on the following area (Potential PhD/minor thesis/honours research topics include but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt; Graph &amp;amp; Network Analytics &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Graph Nerual Networks&lt;/li&gt;
+&lt;li&gt;Graph Attack and Defence&lt;/li&gt;
+&lt;li&gt;Social Recommendation&lt;/li&gt;
+&lt;li&gt;Knowledge Graph&lt;/li&gt;
+&lt;li&gt;Graph Embedding&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; Deep Learning &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;AutoML (Neural Architecture Search)&lt;/li&gt;
+&lt;li&gt;Adversarial deep learning&lt;/li&gt;
+&lt;li&gt;Deep learning for graph Data&lt;/li&gt;
+&lt;li&gt;Deep spatial temporal modeling&lt;/li&gt;
+&lt;li&gt;Deep reinforcement learning&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; NLP &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Sentence embedding&lt;/li&gt;
+&lt;li&gt;Attention network&lt;/li&gt;
+&lt;li&gt;Text classification&lt;/li&gt;
+&lt;li&gt;Question Answering&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; Time Series/Streaming Data Analytics &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Time series feature selection&lt;/li&gt;
+&lt;li&gt;Time series prediction&lt;/li&gt;
+&lt;li&gt;Data stream/concept drift&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; Anomaly Detection &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Outlier detection&lt;/li&gt;
+&lt;li&gt;Novelty discovery&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; AI Applications &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Cyberbullying detection&lt;/li&gt;
+&lt;li&gt;Suicidual detection&lt;/li&gt;
+&lt;li&gt;Healthcare data analytics&lt;/li&gt;
+&lt;li&gt;Recommender system
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A master degree with a &lt;b&gt; computer science &lt;/b&gt; related background, and GPA &amp;gt; &lt;sup&gt;85&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt;. Outstanding students with only undergraduate degree can also be considered, if GPA &amp;gt; &lt;sup&gt;90&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt;.&lt;/li&gt;
+&lt;li&gt;Outstanding English skills, e.g., IELTS 6.5 overall (no band less than 6.0), TOEFL IBT 79 + (Reading 13, Listening 12, Speaking 18 &amp;amp; Writing 21).&lt;/li&gt;
+&lt;li&gt;A good publication track record.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Others can be found at &lt;a href=&#34;https://www.monash.edu/it/our-research/graduate-research/how-to-apply&#34; target=&#34;_blank&#34;&gt;https://www.monash.edu/it/our-research/graduate-research/how-to-apply&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;deadline&#34;&gt;Deadline&lt;/h3&gt;
+
+&lt;p&gt;There is no deadline, and you can apply at anytime of the year! CSC (China) PhD applications are most welcome.&lt;/p&gt;
+
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+
+&lt;p&gt;Please send me your &lt;b&gt; CV, transcripts, publication list, and research topics &lt;/b&gt; that you are interested in.&lt;/p&gt;
+
+&lt;p&gt;email: shirui.pan at monash.edu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Special Issue on Graph Powered Machine Learning</title>
+      <link>https://shiruipan.github.io/post/si_graphml/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/post/si_graphml/</guid>
+      <description>
+
+&lt;h3 id=&#34;journal&#34;&gt;Journal&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/GraphML-FGCS&#34; target=&#34;_blank&#34;&gt;Future-Generation Computing Systems&lt;/a&gt; (&lt;span style=&#34;color:red&#34;&gt; &lt;b&gt;IF 5.768, CORE A&lt;/b&gt;&lt;/span&gt;).&lt;/p&gt;
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;Recent years have witnessed a dramatic increase of graph applications due to advancements in information and communication technologies. In a variety of applications, such as social networks, communication networks, internet of things (IOTs), and human disease networks, graph data contains rich information and exhibits diverse characteristics. Specifically, graph data may come with the node or edge attributes showing the property of an entity or a connection, arise with signed or unsigned edges indicating the positive or negative relationships, form homogenous or heterogeneous information networks modeling different scenarios and settings. Furthermore, in these applications, the graph data is evolving and expanding more and more dynamically. The diverse, dynamic, and large-scale nature of graph data requires different data mining techniques and advanced machine learning methods. Meanwhile, the computing system evolves rapidly and becomes large-scale, collaborative and distributed, with many computing principles proposed such as cloud computing, edge computing and federated learning. Learning from big graph data in future-generation computing systems considers the effectiveness of graph learning, scalability of large-scale computing, privacy preserving under the federated computing setting with multi-source graphs, and graph dynamics in the distributed environment. Today’s researchers have realized that novel graph learning theory, big graph specific platforms, and advanced graph processing techniques are needed. Therefore, a set of research topics such as distributed graph computing, graph stream learning, and graph embedding techniques have emerged, and applications such as graph-based anomaly detection, social recommendation, social influence analytics are becoming important issues for the research community.&lt;/p&gt;
+
+&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
+
+&lt;p&gt;We are seeking contributions on the advanced data mining and machine learning methods and applications for &lt;span style=&#34;color:red&#34;&gt; &lt;b&gt; graph machine learning &lt;/b&gt;&lt;/span&gt; in future generation computing systems. The topics of interest include, but are not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Feature Selection for Graph Data&lt;/li&gt;
+&lt;li&gt;Distributed Computing on Big Graphs&lt;/li&gt;
+&lt;li&gt;Dynamic and Streaming Graph Learning&lt;/li&gt;
+&lt;li&gt;Graph Classification, Clustering, Link Prediction Tasks&lt;/li&gt;
+&lt;li&gt;Graph Embedding&lt;/li&gt;
+&lt;li&gt;Learning from Unattributed/Attributed Networks&lt;/li&gt;
+&lt;li&gt;Learning from Unsigned/Signed Networks&lt;/li&gt;
+&lt;li&gt;Learning from Homogenous/Heterogeneous Information Networks&lt;/li&gt;
+&lt;li&gt;Anomaly Detection in Graph Data&lt;/li&gt;
+&lt;li&gt;Sentiment Analysis&lt;/li&gt;
+&lt;li&gt;Cyberbullying Detection in Social Networks&lt;/li&gt;
+&lt;li&gt;Deep Learning for Graphs&lt;/li&gt;
+&lt;li&gt;Graph Based Machine Learning&lt;/li&gt;
+&lt;li&gt;Relational Data Analytics&lt;/li&gt;
+&lt;li&gt;Social Recommendation&lt;/li&gt;
+&lt;li&gt;Knowledge graph representation learning&lt;/li&gt;
+&lt;li&gt;Reasoning over large-scale knowledge bases&lt;/li&gt;
+&lt;li&gt;Temporal knowledge graphs&lt;/li&gt;
+&lt;li&gt;Federated learning with distributed knowledge graphs&lt;/li&gt;
+&lt;li&gt;Social computing&lt;/li&gt;
+&lt;li&gt;Applications of big graph learning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;deadline&#34;&gt;Deadline&lt;/h3&gt;
+
+&lt;p&gt;July 15, 2020&lt;/p&gt;
+
+&lt;h3 id=&#34;full-cfp&#34;&gt;Full CFP&lt;/h3&gt;
+
+&lt;p&gt;A pdf version CFP is availabel &lt;a href=&#34;../../post/CFP_GraphML_FGCS.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;key-references&#34;&gt;Key References&lt;/h3&gt;
+
+&lt;p&gt;1 A Survey on Knowledge Graphs: Representation, Acquisition and Applications. S Ji, S Pan, E Cambria, P Marttinen, PS Yu. arXiv preprint arXiv:2002.00388, 2020.&lt;/p&gt;
+
+&lt;p&gt;2 A comprehensive survey on graph neural networks. Z Wu, S Pan, F Chen, G Long, C Zhang, PS Yu. IEEE Transactions on Neural Networks and Learning Systems, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Special Issue on Knowledge Graph Representation and Reasoning</title>
+      <link>https://shiruipan.github.io/post/si_kg/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/post/si_kg/</guid>
+      <description>
+
+&lt;h3 id=&#34;journal&#34;&gt;Journal&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.journals.elsevier.com/neurocomputing&#34; target=&#34;_blank&#34;&gt;Neurocomputing&lt;/a&gt; (&lt;span style=&#34;color:red&#34;&gt; &lt;b&gt;IF 4.072&lt;/b&gt;&lt;/span&gt;).&lt;/p&gt;
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;Recent years have witnessed the release of many open-source and enterprise-driven knowledge
+graphs with a dramatic increase of applications of knowledge representation and reasoning in
+fields such as natural language processing, computer vision, and bioinformatics. With those
+large-scale knowledge graphs, recent research tends to incorporate human knowledge and
+imitate human’s ability of relational reasoning. Factual knowledge stored in knowledge bases
+or knowledge graphs can be utilized as a source for logical reasoning and, hence, be integrated
+to improve real-world applications.&lt;/p&gt;
+
+&lt;p&gt;Emerging embedding-based methods for knowledge graph representation have shown their
+ability to capture relational facts and model different scenarios with heterogenous information.
+By combining symbolic reasoning methods or Bayesian models, deep representation learning
+techniques on knowledge graphs attempt to handle complex reasoning with relational path and
+symbolic logic and capture the uncertainty with probabilistic inference. Furthermore, efficient
+representation learning and reasoning can be one of the paths towards the emulation of highlevel cognition and human-level intelligence. Knowledge graphs can also be seen as a means
+to tackle the problem of explainability in AI. These trends naturally facilitate relevant
+downstream applications which inject structural knowledge into wide-applied neural
+architectures such as attention-based transformers and graph neural networks.&lt;/p&gt;
+
+&lt;p&gt;This special issue focuses on emerging techniques and trendy applications of knowledge graph
+representation learning and reasoning in fields such as natural language processing, computer
+vision, bioinformatics, and more.&lt;/p&gt;
+
+&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
+
+&lt;p&gt;This special issue focuses on emerging techniques and trendy applications of &lt;span style=&#34;color:red&#34;&gt; &lt;b&gt;knowledge graph &lt;/b&gt;&lt;/span&gt;
+representation learning and reasoning in fields such as natural language processing, computer
+vision, bioinformatics, and more.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Representation learning on knowledge graphs&lt;/li&gt;
+&lt;li&gt;Representation learning on text data&lt;/li&gt;
+&lt;li&gt;Logical rule mining and symbolic reasoning&lt;/li&gt;
+&lt;li&gt;Knowledge graph completion and link prediction&lt;/li&gt;
+&lt;li&gt;Relation extraction&lt;/li&gt;
+&lt;li&gt;Community embeddings&lt;/li&gt;
+&lt;li&gt;Knowledge representation and reasoning over large-scale knowledge graphs&lt;/li&gt;
+&lt;li&gt;Hybrid methods with symbolic and non-symbolic representation and reasoning&lt;/li&gt;
+&lt;li&gt;Automatic knowledge graph construction&lt;/li&gt;
+&lt;li&gt;Domain specific knowledge graphs, e.g., medical knowledge graphs&lt;/li&gt;
+&lt;li&gt;Knowledge dynamics of temporal knowledge graphs&lt;/li&gt;
+&lt;li&gt;Time-evolving knowledge representation learning&lt;/li&gt;
+&lt;li&gt;Question answering and dialogue systems with knowledge graphs&lt;/li&gt;
+&lt;li&gt;Knowledge-injected sentiment analysis&lt;/li&gt;
+&lt;li&gt;Commonsense knowledge representation and reasoning&lt;/li&gt;
+&lt;li&gt;Knowledge graphs for neural machine translation&lt;/li&gt;
+&lt;li&gt;Knowledge-aware recommendation systems&lt;/li&gt;
+&lt;li&gt;Knowledge graphs for digital health, e.g., mental healthcare and medical diagnosis&lt;/li&gt;
+&lt;li&gt;Few-shot relational learning on knowledge graphs&lt;/li&gt;
+&lt;li&gt;Federated learning with multi-source knowledge graphs in the decentralized setting&lt;/li&gt;
+&lt;li&gt;Graph representation learning for structured data&lt;/li&gt;
+&lt;li&gt;Explainable artificial intelligence with knowledge-aware models&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;deadline&#34;&gt;Deadline&lt;/h3&gt;
+
+&lt;p&gt;Aug 31, 2020&lt;/p&gt;
+
+&lt;h3 id=&#34;full-cfp&#34;&gt;Full CFP&lt;/h3&gt;
+
+&lt;p&gt;A pdf version CFP is availabel &lt;a href=&#34;../../post/CFP_KG_NEUCOM.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;key-references&#34;&gt;Key References&lt;/h3&gt;
+
+&lt;p&gt;1 A Survey on Knowledge Graphs: Representation, Acquisition and Applications. S Ji, S Pan, E Cambria, P Marttinen, PS Yu. arXiv preprint arXiv:2002.00388, 2020.&lt;/p&gt;
+
+&lt;p&gt;2 A comprehensive survey on graph neural networks. Z Wu, S Pan, F Chen, G Long, C Zhang, PS Yu. IEEE Transactions on Neural Networks and Learning Systems, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

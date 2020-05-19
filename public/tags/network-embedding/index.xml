@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network-embedding on Shirui Pan</title>
+    <link>/tags/network-embedding/</link>
+    <description>Recent content in Network-embedding on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/network-embedding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Graph Embedding with Adversarial Training Methods</title>
+      <link>/publication/2019-07-23_learning-graph-embedding/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-07-23_learning-graph-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph WaveNet for Deep Spatial-Temporal Graph Modeling</title>
+      <link>/publication/2019-05-28_spatial-temporal/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_spatial-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Bit Quantization for Attributed Network Representation Learning</title>
+      <link>/publication/2019-05-28_low-bit/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_low-bit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attributed Graph Clustering: A Deep Attentional Embedding Approach</title>
+      <link>/publication/2019-05-28_attribute-graph/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_attribute-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label Embedding with Partial Heterogeneous Contexts</title>
+      <link>/publication/2019-01-27_label-embedding/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-27_label-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binarized Attributed Network Embedding</title>
+      <link>/publication/2018-11-17_binarized_attributed_network/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-11-17_binarized_attributed_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Discriminative Network Representation Learning</title>
+      <link>/publication/2018-01-01_active-discriminative/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_active-discriminative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarially Regularized Graph Autoencoder for Graph Embedding</title>
+      <link>/publication/2018-01-01_adversarially-regularized/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_adversarially-regularized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Network Embedding</title>
+      <link>/publication/2018-01-01_discrete-network-embedding/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_discrete-network-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tri-party deep network representation</title>
+      <link>/publication/2016-01-01_tri-party_deep_netwo/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_tri-party_deep_netwo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

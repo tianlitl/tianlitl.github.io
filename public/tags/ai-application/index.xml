@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai-application on Shirui Pan</title>
+    <link>/tags/ai-application/</link>
+    <description>Recent content in Ai-application on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ai-application/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Broadlink AI System and Smart Air-Conditioner</title>
+      <link>/project/smart-home/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/smart-home/</guid>
+      <description>This project aims to design an artificially intelligent system for a Chinese company, Broadlink, to predict user behaviors of using air-conditioners. Key tasks include:
+ Opening Setting Prediction: when a user turn on the air-conditioner, what are his/her expected temperature, wind direction, and wind speed? Setting Adjustment Prediction: when will the user change the setting of air-conditioner after it is turned on? Device Closure Prediction: when will a user turn off the air-conditioner?</description>
+    </item>
+    
+    <item>
+      <title>Deep Structure Learning for Cyberbullying Detection on Social Networks</title>
+      <link>/project/cyberbullying/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cyberbullying/</guid>
+      <description>This project aims to build a deep structure learning system to detect cyberbullying on social networks to improve the e-safety for children and young people. Detailed research topics include a deep node representation model, a deep-signed link prediction approach, and a multi-task cyberbullying detection algorithm. The outcomes will not only lay the theoretical foundations for building intelligent systems on social networks by integrating multiple view information such as user profiles, network structures, and text messages, but could be also used by public sectors to detect cyberbullying, thus improving e-safety for children.</description>
+    </item>
+    
+  </channel>
+</rss>

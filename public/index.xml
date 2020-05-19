@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shirui Pan on Shirui Pan</title>
+    <link>/</link>
+    <description>Recent content in Shirui Pan on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +1000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Domain-Adversarial Graph Neural Networks for Text Classification</title>
+      <link>/publication/2019-08-10_domain-adversarial/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-10_domain-adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation Structure-Aware Heterogeneous Graph Neural Network</title>
+      <link>/publication/2019-08-10_relation-structure/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-10_relation-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-short Distance Aggregation Networks for Positive Unlabeled Graph Learning</title>
+      <link>/publication/2019-08-09_long-short_distance/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-09_long-short_distance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graph Embedding with Adversarial Training Methods</title>
+      <link>/publication/2019-07-23_learning-graph-embedding/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-07-23_learning-graph-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Knowledge Subgraph Ensemble for Robust and Trustworthy Knowledge Graph Completion</title>
+      <link>/publication/2019-07-22_adaptive-kg-embedding/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-07-22_adaptive-kg-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph WaveNet for Deep Spatial-Temporal Graph Modeling</title>
+      <link>/publication/2019-05-28_spatial-temporal/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_spatial-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Bit Quantization for Attributed Network Representation Learning</title>
+      <link>/publication/2019-05-28_low-bit/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_low-bit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attributed Graph Clustering: A Deep Attentional Embedding Approach</title>
+      <link>/publication/2019-05-28_attribute-graph/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_attribute-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identify Topic Relations in Scientific Literature Using Topic Modeling</title>
+      <link>/publication/2019-04-09_topic-relations/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-04-09_topic-relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence Spread in Geo-Social Networks: A Multi-Objective Optimization Perspective</title>
+      <link>/publication/2019-03-14_influence/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-14_influence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label Embedding with Partial Heterogeneous Contexts</title>
+      <link>/publication/2019-01-27_label-embedding/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-27_label-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Feature Learning with Labeled and Unlabeled Data</title>
+      <link>/publication/2018-12-19_time-series-feature-learning/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-12-19_time-series-feature-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binarized Attributed Network Embedding</title>
+      <link>/publication/2018-11-17_binarized_attributed_network/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-11-17_binarized_attributed_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-sensitive Parallel Learning Framework for Insurance Intelligence Operation</title>
+      <link>/publication/2018-09-09_cost-sensitive-parallel-learning/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-09-09_cost-sensitive-parallel-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Recommendation With Evolutionary Opinion Dynamics</title>
+      <link>/publication/2018-06-01_social_recommendation/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-06-01_social_recommendation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

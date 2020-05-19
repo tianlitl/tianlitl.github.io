@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lewei Zhou | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/lewei-zhou/</link>
+      <atom:link href="https://shiruipan.github.io/authors/lewei-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lewei Zhou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Lewei Zhou</title>
+      <link>https://shiruipan.github.io/authors/lewei-zhou/</link>
+    </image>
+    
+    <item>
+      <title>GSSNN: Graph Smoothing Splines Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/aaai-2020-zhu/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-zhu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

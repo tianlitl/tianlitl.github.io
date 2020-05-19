@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Shirui Pan</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>About Shirui Shirui Pan is a Lecturer with the Machine Learning Group, Faculty of Information Technology, Monash University. Prior to this, he was a Lecturer with the Centre for Artificial Intelligence (CAI), School of Software, Faculty of Engineering and Information Technology, University of Technology Sydney(UTS). Shirui received his Ph.D degree in computer science from UTS, Australia, under the supervision of Professor Chengqi Zhang  and Xingquan Zhu. His research interests include data mining and machine learning, specialized in graph mining and network analysis.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New</title>
+      <link>/home/whatsnew/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/whatsnew/</guid>
+      <description>Two papers are accepted by IEEE ICDM-2019 (09/08/2019).  Domain-Adversarial Graph Neural Networks for Text Classification. Relation Structure-Aware Heterogeneous Graph Neural Network.  Two papers are accepted by ACM CIKM-2019 (09/08/2019).  Long-short Distance Aggregation Networks for Positive Unlabeled Graph Learning. An Accurate and Explainable Deep Learning Algorithm for Affect Recognition.  One Paper on Graph Embedding is Accepted by  IEEE Transactions on Cybernetics  (IF: 10.387) (23/07/2019). One Paper on Knowledge Graph Embedding is Accepted by WWWJ (22/07/2019).</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professional Services</title>
+      <link>/home/service/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/service/</guid>
+      <description> Editorship  Associate Editor: IEEE Access (Impact factor: 3.244) Guest Editor for Special Issue: Complexity (Impact factor: 4.621)  Conference Organisation  Special Session Chair: Learning from Big Graph Data: Theory and Applications, IJCNN-2018 (ERA A) Special Session Chair: Advanced Data Analytics for Large-scale Complex Data Environment, IJCNN- 2017 (ERA A) Special Session Chair: Advanced Machine Learning Methods and Applications from Complicated Data Environment, IJCNN-2016 (ERA A)  Journal Reviewer  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (ERA A*) IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (ERA A*) IEEE Transactions on Knowledge and Data Engineering (TKDE)((ERA A) IEEE Transactions on Cybernetics (TCYB) (ERA A) IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA) (ERA B) IEEE Signal Processing Letters ACM Transactions on Intelligent Systems and Technology (TIST) World Wide Web (WWW) (ERA A) Social Network Analysis and Mining Neural Computing and Applications Neurocomputing  Program Committee  Annual Conference on Neural Information Processing Systems (NeurIPS-2019) (CORE A*) SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-19) (CORE A*) The Web Conference (WWW-19) (CORE A*) AAAI Conference on Artificial Intelligence (AAAI-19,18,17) (CORE A*) International Joint Conference on Artificial Intelligence (IJCAI-18,17) (CORE A*) SIAM International Conference on Data Mining (SDM-19) (CORE A) Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-19,18,17,16)(CORE A) IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2014-15) International Conference on Advanced Data Mining and Applications (ADMA 2014, 2016) The international conference on Advances in Social Network Analysis and Mining (ASONAM 2017) The China Computer Federation (CCF) Conference on Big Data (CCF Big Data 2017)  </description>
+    </item>
+    
+    <item>
+      <title>Professional Services</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>Editorship o Associate Editor: IEEE Access (Impact factor: 3.244)
+o Guest Editor for Special Issue: Complexity (Impact factor: 4.621)
+Conference Organisation o Special Session Chair: Learning from Big Graph Data: Theory and Applications, IJCNN-2018 (ERA A)
+o Special Session Chair: Advanced Data Analytics for Large-scale Complex Data Environment, IJCNN- 2017 (ERA A)
+o Special Session Chair: Advanced Machine Learning Methods and Applications from Complicated Data Environment, IJCNN-2016 (ERA A)</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grants</title>
+      <link>/home/grants/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/grants/</guid>
+      <description> Deep Structure Learning for Cyberbullying Detection on Social Networks ($20,000) - 2016-2017  UTS Early Research Grant (UTS - ECRG) University of Technology Sydney First CI.    </description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>/home/students/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/students/</guid>
+      <description>I am co-supervising or working closely with the following Higher Degree Research (HDR) students:
+ Ruiqi Hu (UTS, Completed) Chun Wang (UTS) Zonghan Wu (UTS) Shaoxiong Ji (UQ) Hong Yang (UTS) Fengwen Chen (UTS) Zhineng Fu (UTS, SCUT) Ximeng Wang (UTS, BJU) Guojia Wan (WHU)  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

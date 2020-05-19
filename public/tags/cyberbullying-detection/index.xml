@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyberbullying-detection on Shirui Pan</title>
+    <link>/tags/cyberbullying-detection/</link>
+    <description>Recent content in Cyberbullying-detection on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 11 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cyberbullying-detection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Structure Learning for Cyberbullying Detection on Social Networks</title>
+      <link>/project/cyberbullying/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cyberbullying/</guid>
+      <description>This project aims to build a deep structure learning system to detect cyberbullying on social networks to improve the e-safety for children and young people. Detailed research topics include a deep node representation model, a deep-signed link prediction approach, and a multi-task cyberbullying detection algorithm. The outcomes will not only lay the theoretical foundations for building intelligent systems on social networks by integrating multiple view information such as user profiles, network structures, and text messages, but could be also used by public sectors to detect cyberbullying, thus improving e-safety for children.</description>
+    </item>
+    
+  </channel>
+</rss>

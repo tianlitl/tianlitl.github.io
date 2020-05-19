@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junjun Jiang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/junjun-jiang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/junjun-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junjun Jiang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Junjun Jiang</title>
+      <link>https://shiruipan.github.io/authors/junjun-jiang/</link>
+    </image>
+    
+    <item>
+      <title>IEEE access special section editorial: advanced data analytics for large-scale complex data environments</title>
+      <link>https://shiruipan.github.io/publication/wu-ieee-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-ieee-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

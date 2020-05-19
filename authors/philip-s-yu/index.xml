@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip S Yu | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/philip-s-yu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/philip-s-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philip S Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Philip S Yu</title>
+      <link>https://shiruipan.github.io/authors/philip-s-yu/</link>
+    </image>
+    
+    <item>
+      <title>A comprehensive survey on graph neural networks</title>
+      <link>https://shiruipan.github.io/publication/wu-2019-comprehensive/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-2019-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Knowledge Graphs: Representation, Acquisition and Applications</title>
+      <link>https://shiruipan.github.io/publication/ji-2020-kg/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ji-2020-kg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

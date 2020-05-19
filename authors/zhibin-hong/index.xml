@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhibin Hong | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/zhibin-hong/</link>
+      <atom:link href="https://shiruipan.github.io/authors/zhibin-hong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhibin Hong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Zhibin Hong</title>
+      <link>https://shiruipan.github.io/authors/zhibin-hong/</link>
+    </image>
+    
+    <item>
+      <title>Multi-graph-view subgraph mining for graph classification</title>
+      <link>https://shiruipan.github.io/publication/wu-multi-graph-view-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multi-graph-view-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph-view Learning for Graph Classification</title>
+      <link>https://shiruipan.github.io/publication/wu-multi-graph-view-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multi-graph-view-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring features for complicated objects: cross-view feature selection for multi-instance learning</title>
+      <link>https://shiruipan.github.io/publication/wu-exploring-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-exploring-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph learning with positive and unlabeled bags</title>
+      <link>https://shiruipan.github.io/publication/wu-multi-graph-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multi-graph-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

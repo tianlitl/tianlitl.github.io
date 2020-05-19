@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shirui Pan</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Broadlink AI System and Smart Air-Conditioner</title>
+      <link>/project/smart-home/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/smart-home/</guid>
+      <description>This project aims to design an artificially intelligent system for a Chinese company, Broadlink, to predict user behaviors of using air-conditioners. Key tasks include:
+ Opening Setting Prediction: when a user turn on the air-conditioner, what are his/her expected temperature, wind direction, and wind speed? Setting Adjustment Prediction: when will the user change the setting of air-conditioner after it is turned on? Device Closure Prediction: when will a user turn off the air-conditioner?</description>
+    </item>
+    
+    <item>
+      <title>Discriminative Subgraph Mining For Graph Classification</title>
+      <link>/project/graph-classification-task/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/graph-classification-task/</guid>
+      <description>Recent years have witnessed an increasing number of applications involving objects with structural relationships, including chemical compounds in Bioinformatics, brain networks, image structures, and academic citation networks. For these applications, graph is a natural and powerful tool for modeling and capturing dependency relationships between objects.
+Unlike conventional data, where each instance is represented in a feature-value vector format, graphs exhibit node–edge structural relationships and have no natural vector representation. This challenge has motivated many graph classification algorithms in recent years.</description>
+    </item>
+    
+    <item>
+      <title>Network Embedding</title>
+      <link>/project/effective-network-embedding/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/effective-network-embedding/</guid>
+      <description>Information network mining often requires examination of linkage relationships between nodes for analysis. Recently, network representation has emerged to represent each node in a vector format, embedding network structure, so off-the-shelf machine learning methods can be directly applied for analysis. We have proposed a number of algorithms to address this problem, including:
+Continuous Network Embedding Continuous network embedding has been a hot topic since 2014, which aims to embed each node into a compact and  continuous  vector space.</description>
+    </item>
+    
+    <item>
+      <title>Deep Structure Learning for Cyberbullying Detection on Social Networks</title>
+      <link>/project/cyberbullying/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cyberbullying/</guid>
+      <description>This project aims to build a deep structure learning system to detect cyberbullying on social networks to improve the e-safety for children and young people. Detailed research topics include a deep node representation model, a deep-signed link prediction approach, and a multi-task cyberbullying detection algorithm. The outcomes will not only lay the theoretical foundations for building intelligent systems on social networks by integrating multiple view information such as user profiles, network structures, and text messages, but could be also used by public sectors to detect cyberbullying, thus improving e-safety for children.</description>
+    </item>
+    
+  </channel>
+</rss>

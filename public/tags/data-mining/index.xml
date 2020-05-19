@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Mining on Shirui Pan</title>
+    <link>/tags/data-mining/</link>
+    <description>Recent content in Data Mining on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 10 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Domain-Adversarial Graph Neural Networks for Text Classification</title>
+      <link>/publication/2019-08-10_domain-adversarial/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-10_domain-adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation Structure-Aware Heterogeneous Graph Neural Network</title>
+      <link>/publication/2019-08-10_relation-structure/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-10_relation-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-short Distance Aggregation Networks for Positive Unlabeled Graph Learning</title>
+      <link>/publication/2019-08-09_long-short_distance/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-08-09_long-short_distance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graph Embedding with Adversarial Training Methods</title>
+      <link>/publication/2019-07-23_learning-graph-embedding/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-07-23_learning-graph-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Knowledge Subgraph Ensemble for Robust and Trustworthy Knowledge Graph Completion</title>
+      <link>/publication/2019-07-22_adaptive-kg-embedding/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-07-22_adaptive-kg-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph WaveNet for Deep Spatial-Temporal Graph Modeling</title>
+      <link>/publication/2019-05-28_spatial-temporal/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_spatial-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Bit Quantization for Attributed Network Representation Learning</title>
+      <link>/publication/2019-05-28_low-bit/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_low-bit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attributed Graph Clustering: A Deep Attentional Embedding Approach</title>
+      <link>/publication/2019-05-28_attribute-graph/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-05-28_attribute-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identify Topic Relations in Scientific Literature Using Topic Modeling</title>
+      <link>/publication/2019-04-09_topic-relations/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-04-09_topic-relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence Spread in Geo-Social Networks: A Multi-Objective Optimization Perspective</title>
+      <link>/publication/2019-03-14_influence/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-14_influence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label Embedding with Partial Heterogeneous Contexts</title>
+      <link>/publication/2019-01-27_label-embedding/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-27_label-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Feature Learning with Labeled and Unlabeled Data</title>
+      <link>/publication/2018-12-19_time-series-feature-learning/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-12-19_time-series-feature-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binarized Attributed Network Embedding</title>
+      <link>/publication/2018-11-17_binarized_attributed_network/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-11-17_binarized_attributed_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-sensitive Parallel Learning Framework for Insurance Intelligence Operation</title>
+      <link>/publication/2018-09-09_cost-sensitive-parallel-learning/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-09-09_cost-sensitive-parallel-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Recommendation With Evolutionary Opinion Dynamics</title>
+      <link>/publication/2018-06-01_social_recommendation/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-06-01_social_recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Discriminative Network Representation Learning</title>
+      <link>/publication/2018-01-01_active-discriminative/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_active-discriminative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarially Regularized Graph Autoencoder for Graph Embedding</title>
+      <link>/publication/2018-01-01_adversarially-regularized/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_adversarially-regularized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Network Embedding</title>
+      <link>/publication/2018-01-01_discrete-network-embedding/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_discrete-network-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFOND: Consensus Factorization for Co-Clustering Networked Data</title>
+      <link>/publication/2018-01-01_cfond_consensus_fact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_cfond_consensus_fact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-sensitive Hybrid Neural Networks for Heterogeneous and Imbalanced Data</title>
+      <link>/publication/2018-01-01_cost-sensitive-hybrid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_cost-sensitive-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-domain Deep Learning Approach for Multiple Financial Market Prediction</title>
+      <link>/publication/2018-01-01_cross-domain/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_cross-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FraudNE: a Joint Embedding Approach for Fraud Detection</title>
+      <link>/publication/2018-01-01_fraudne/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_fraudne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positive and Unlabeled Multi-Graph Learning</title>
+      <link>/publication/2017-01-01_positive_and_unlabel/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_positive_and_unlabel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task Sensitive Feature Exploration and Learning for Multitask Graph Classification</title>
+      <link>/publication/2017-01-01_task_sensitive_featu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_task_sensitive_featu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph-view subgraph mining for graph classification</title>
+      <link>/publication/2016-01-01_multi-graph-view_sub/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_multi-graph-view_sub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tri-party deep network representation</title>
+      <link>/publication/2016-01-01_tri-party_deep_netwo/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_tri-party_deep_netwo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CogBoost: Boosting for Fast Cost-Sensitive Graph Classification</title>
+      <link>/publication/2015-01-01_cogboost_boosting_fo/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_cogboost_boosting_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the best not the most: Regularized loss minimization subgraph selection for graph classification</title>
+      <link>/publication/2015-01-01_finding_the_best_not/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_finding_the_best_not/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph ensemble boosting for imbalanced noisy graph stream classification</title>
+      <link>/publication/2015-01-01_graph_ensemble_boost/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_graph_ensemble_boost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

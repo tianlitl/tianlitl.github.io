@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Shirui Pan</title>
+    <link>https://shiruipan.github.io/project/</link>
+      <atom:link href="https://shiruipan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://shiruipan.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Graph Classification</title>
+      <link>https://shiruipan.github.io/project/graph-classification-task/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/project/graph-classification-task/</guid>
+      <description>&lt;p&gt;Recent years have witnessed an increasing number of applications involving objects with structural relationships, including chemical compounds in Bioinformatics, brain networks, image structures, and academic citation networks. For these applications, graph is a natural and powerful tool for modeling and capturing dependency relationships between objects.&lt;/p&gt;
+
+&lt;p&gt;Unlike conventional data, where each instance is represented in a feature-value vector format, graphs exhibit node–edge structural relationships and have no natural vector representation. This challenge has motivated many graph classification algorithms in recent years. Given a set of training graphs, each associated with a class label, graph classification aims to learn a model from the training graphs to predict the unseen graphs in future. The following picture shows the difference betweeb classification on vector data and graph data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/VectorVsGraph.png&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Broadlink AI System and Smart Air-Conditioner</title>
+      <link>https://shiruipan.github.io/project/smart-home/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/project/smart-home/</guid>
+      <description>&lt;p&gt;This project aims to design an artificially intelligent system for a Chinese company, Broadlink, to predict user behaviors of using air-conditioners. Key tasks include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opening Setting Prediction: when a user turn on the air-conditioner, what are his/her expected temperature, wind direction, and wind speed?&lt;/li&gt;
+&lt;li&gt;Setting Adjustment Prediction: when will the user change the setting of air-conditioner after it is turned on?&lt;/li&gt;
+&lt;li&gt;Device Closure Prediction: when will a user turn off the air-conditioner?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Network Embedding</title>
+      <link>https://shiruipan.github.io/project/effective-network-embedding/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/project/effective-network-embedding/</guid>
+      <description>
+
+&lt;p&gt;Information network mining often requires examination of linkage relationships between nodes for analysis. Recently, network representation has emerged to represent each node in a vector format, embedding network structure, so off-the-shelf machine learning methods can be directly applied for analysis. We have proposed a number of algorithms to address this problem, including:&lt;/p&gt;
+
+&lt;h2 id=&#34;continuous-network-embedding&#34;&gt;Continuous Network Embedding&lt;/h2&gt;
+
+&lt;p&gt;Continuous network embedding has been a hot topic since 2014, which aims to embed each node into a compact and &lt;b&gt; continuous &lt;/b&gt; vector space. Our developments include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/2016-01-01_tri-party_deep_netwo/&#34;&gt;&lt;b&gt; TriDNR&lt;/b&gt;: Tri-Party Deep Network Representation Learning&lt;/a&gt; (IJCAI-16) &lt;b&gt;[&lt;a href=&#34;https://github.com/shiruipan/TriDNR&#34; target=&#34;_blank&#34;&gt;Code&lt;/a&gt;]&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/2018-01-01_adversarially-regularized/&#34;&gt;&lt;b&gt; ARGA&lt;/b&gt;: Adversarially Regularized Graph Autoencoder for Graph Embedding&lt;/a&gt;  (IJCAI-18)&lt;b&gt;[&lt;a href=&#34;https://github.com/Ruiqi-Hu/ARGA&#34; target=&#34;_blank&#34;&gt;Code&lt;/a&gt;]&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/2018-01-01_active-discriminative/&#34;&gt;&lt;b&gt; ANRMAB&lt;/b&gt;: Active Discriminative Network Representation Learning&lt;/a&gt; (IJCAI-18)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/2017-01-01_mgae_marginalized_gr/&#34;&gt;&lt;b&gt; MGAE&lt;/b&gt;: Marginalized Graph Autoencoder for Graph Clustering&lt;/a&gt; (CIKM-17)&lt;b&gt;[&lt;a href=&#34;https://github.com/FakeTibbers/MGAE&#34; target=&#34;_blank&#34;&gt;Code&lt;/a&gt;]&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;discrete-network-embedding&#34;&gt;Discrete Network Embedding&lt;/h2&gt;
+
+&lt;p&gt;The network embedding is typically represented in continuous vector, which imposes formidable challenges in storage and computation costs, particularly in largescale applications. To address the issue, we propose to learn succinct and &lt;b&gt; discrete &lt;/b&gt; node representation for fast node recommendation and classification. Our methods include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/2018-01-01_discrete-network-embedding/&#34;&gt;&lt;b&gt; DNE&lt;/b&gt;: Discrete Network Embedding&lt;/a&gt; (IJCAI-18). This is the first work for discrete network embedding, which deals with a plain network without attribute information. The node is represented in a binary vector space.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/2018-11-17_binarized_attributed_network/&#34;&gt;&lt;b&gt; BANE&lt;/b&gt;: Binarized Attributed Network Embedding&lt;/a&gt; (ICDM-18). This is the first discrete network embedding algorithm which exploits both structure and attribute information to learn a binary code for each node in an attribute network.  &lt;b&gt;[&lt;a href=&#34;https://github.com/shiruipan/BANE&#34; target=&#34;_blank&#34;&gt;Code&lt;/a&gt;]&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/2019-05-28_Low-bit/&#34;&gt;&lt;b&gt; LQANR&lt;/b&gt;: Low-Bit Quantization for Attributed Network Representation Learnin&lt;/a&gt; (IJCAI-19). BANE algorithm may suffer information loss when we represent nodes in a binary space. In this paper, we represent each node in a low-bit width space. In this case, each node is represented as a low bit vector, which have a better performance in various downstream tasks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;b-tridnr-b-tri-party-deep-network-representation-learning-publication-2016-01-01-tri-party-deep-netwo-ijcai-16&#34;&gt;&lt;a href=&#34;../../publication/2016-01-01_tri-party_deep_netwo/&#34;&gt;&lt;b&gt; TriDNR&lt;/b&gt;: Tri-Party Deep Network Representation Learning&lt;/a&gt; (IJCAI-16)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TriDNR exploits node structure, node content, and node labels (if available) to jointly learn optimal node representation.&lt;/li&gt;
+&lt;li&gt;Codes and Data are available &lt;a href=&#34;https://github.com/shiruipan/TriDNR&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.
+&lt;img src=&#34;../../img/tridnr.jpg&#34; alt=&#34;where is the image&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;b-arga-b-adversarially-regularized-graph-autoencoder-for-graph-embedding-publication-2018-01-01-adversarially-regularized-ijcai-18&#34;&gt;&lt;a href=&#34;../../publication/2018-01-01_adversarially-regularized/&#34;&gt;&lt;b&gt; ARGA&lt;/b&gt;: Adversarially Regularized Graph Autoencoder for Graph Embedding&lt;/a&gt;  (IJCAI-18)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ARGA is a novel adversarial graph embedding framework for graph data.&lt;/li&gt;
+&lt;li&gt;Codes and Data are available &lt;a href=&#34;https://github.com/Ruiqi-Hu/ARGA&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.
+&lt;img src=&#34;../../img/arga.jpg&#34; alt=&#34;where is the image&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;b-dne-b-discrete-network-embedding-publication-2018-01-01-discrete-network-embedding-ijcai-18&#34;&gt;&lt;a href=&#34;../../publication/2018-01-01_discrete-network-embedding/&#34;&gt;&lt;b&gt; DNE&lt;/b&gt;: Discrete Network Embedding&lt;/a&gt; (IJCAI-18)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;DNE learns short binary codes to represent each node in a plain network, which exhibits lower storage and computational complexity than state-of-the-art network embedding methods, while obtains competitive classification results.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;DNE is the first algorithm for learning binary representation for a &lt;i&gt; plain network &lt;/i&gt; (without attibute information for nodes).
+&lt;img src=&#34;../../img/dne.jpg&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;b-anrmab-b-active-discriminative-network-representation-learning-publication-2018-01-01-active-discriminative-ijcai-18&#34;&gt;&lt;a href=&#34;../../publication/2018-01-01_active-discriminative/&#34;&gt;&lt;b&gt; ANRMAB&lt;/b&gt;: Active Discriminative Network Representation Learning&lt;/a&gt; (IJCAI-18)&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Label information is valuable for learning the discriminative network representations. ANRMAB actively seeks nodes to label to learn discriminative network representations with a multi-armed bandit mechanism.
+&lt;img src=&#34;../../img/anrmab.jpg&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;b-mgae-b-marginalized-graph-autoencoder-for-graph-clustering-publication-2017-01-01-mgae-marginalized-gr-cikm-17&#34;&gt;&lt;a href=&#34;../../publication/2017-01-01_mgae_marginalized_gr/&#34;&gt;&lt;b&gt; MGAE&lt;/b&gt;: Marginalized Graph Autoencoder for Graph Clustering&lt;/a&gt; (CIKM-17)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MGAE is a stacked graph convolutional autoencoder model to learn latent representation for the graph clustering tasks.&lt;/li&gt;
+&lt;li&gt;Codes and Data are available &lt;a href=&#34;https://github.com/FakeTibbers/MGAE&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.
+&lt;img src=&#34;../../img/mgae.jpg&#34; alt=&#34;where is the image&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Structure Learning for Cyberbullying Detection on Social Networks</title>
+      <link>https://shiruipan.github.io/project/cyberbullying/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/project/cyberbullying/</guid>
+      <description>&lt;p&gt;This project aims to build a deep structure learning system to detect cyberbullying on social networks to improve the e-safety for children and young people. Detailed research topics include a deep node representation model, a deep-signed link prediction approach, and a multi-task cyberbullying detection algorithm. The outcomes will not only lay the theoretical foundations for building intelligent systems on social networks by integrating multiple view information such as user profiles, network structures, and text messages, but could be also used by public sectors to detect cyberbullying, thus improving e-safety for children.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

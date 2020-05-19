@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Shirui Pan</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Shirui Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Graph Embedding with Adversarial Training Methods</title>
+      <link>/publication/2019-07-23_learning-graph-embedding/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-07-23_learning-graph-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Knowledge Subgraph Ensemble for Robust and Trustworthy Knowledge Graph Completion</title>
+      <link>/publication/2019-07-22_adaptive-kg-embedding/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-07-22_adaptive-kg-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identify Topic Relations in Scientific Literature Using Topic Modeling</title>
+      <link>/publication/2019-04-09_topic-relations/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-04-09_topic-relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence Spread in Geo-Social Networks: A Multi-Objective Optimization Perspective</title>
+      <link>/publication/2019-03-14_influence/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-03-14_influence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Feature Learning with Labeled and Unlabeled Data</title>
+      <link>/publication/2018-12-19_time-series-feature-learning/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-12-19_time-series-feature-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-sensitive Parallel Learning Framework for Insurance Intelligence Operation</title>
+      <link>/publication/2018-09-09_cost-sensitive-parallel-learning/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-09-09_cost-sensitive-parallel-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Recommendation With Evolutionary Opinion Dynamics</title>
+      <link>/publication/2018-06-01_social_recommendation/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-06-01_social_recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Three-Layered Mutually Reinforced Model for Personalized Citation Recommendation</title>
+      <link>/publication/2018-01-01_a_three-layered_mutu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_a_three-layered_mutu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFOND: Consensus Factorization for Co-Clustering Networked Data</title>
+      <link>/publication/2018-01-01_cfond_consensus_fact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_cfond_consensus_fact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hashing for Adaptive Real-Time Graph Stream Classification with Concept Drifts</title>
+      <link>/publication/2018-01-01_hashing_for_adaptive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_hashing_for_adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous information network embedding based personalized query-focused astronomy reference paper recommendation</title>
+      <link>/publication/2018-01-01_heterogeneous_inform/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_heterogeneous_inform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-instance learning with discriminative bag mapping</title>
+      <link>/publication/2018-01-01_multi-instance_learn/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_multi-instance_learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting for graph classification with universum</title>
+      <link>/publication/2017-01-01_boosting_for_graph_c/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_boosting_for_graph_c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-document summarization based on sentence cluster using non-negative matrix factorization</title>
+      <link>/publication/2017-01-01_multi-document_summa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_multi-document_summa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Structure-View Learning for Graph Classification</title>
+      <link>/publication/2017-01-01_multiple_structure-v/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_multiple_structure-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positive and Unlabeled Multi-Graph Learning</title>
+      <link>/publication/2017-01-01_positive_and_unlabel/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_positive_and_unlabel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task Sensitive Feature Exploration and Learning for Multitask Graph Classification</title>
+      <link>/publication/2017-01-01_task_sensitive_featu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_task_sensitive_featu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards large-scale social networks with online diffusion provenance detection</title>
+      <link>/publication/2017-01-01_towards_large-scale_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_towards_large-scale_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifying networked text data with positive and unlabeled examples</title>
+      <link>/publication/2016-01-01_classifying_networke/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_classifying_networke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Structure Feature Exploration and Regularization for Multi-Task Graph Classification</title>
+      <link>/publication/2016-01-01_joint_structure_fea/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_joint_structure_fea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph-view subgraph mining for graph classification</title>
+      <link>/publication/2016-01-01_multi-graph-view_sub/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_multi-graph-view_sub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SODE: Self-Adaptive One-Dependence Estimators for classification</title>
+      <link>/publication/2016-01-01_sode_self-adaptive_o/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_sode_self-adaptive_o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting for multi-graph classification</title>
+      <link>/publication/2015-01-01_boosting_for_multi-g/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_boosting_for_multi-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CogBoost: Boosting for Fast Cost-Sensitive Graph Classification</title>
+      <link>/publication/2015-01-01_cogboost_boosting_fo/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_cogboost_boosting_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the best not the most: Regularized loss minimization subgraph selection for graph classification</title>
+      <link>/publication/2015-01-01_finding_the_best_not/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_finding_the_best_not/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph ensemble boosting for imbalanced noisy graph stream classification</title>
+      <link>/publication/2015-01-01_graph_ensemble_boost/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_graph_ensemble_boost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally weighted learning: How and when does it work in Bayesian networks?</title>
+      <link>/publication/2015-01-01_locally_weighted_lea/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_locally_weighted_lea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-adaptive attribute weighting for Naive Bayes classification</title>
+      <link>/publication/2015-01-01_self-adaptive_attrib/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-01-01_self-adaptive_attrib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic classifier ensemble for positive unlabeled text stream classification</title>
+      <link>/publication/2012-01-01_dynamic_classifier_e/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012-01-01_dynamic_classifier_e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifier ensemble for uncertain data stream classification</title>
+      <link>/publication/2010-01-01_classifier_ensemble_/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2010-01-01_classifier_ensemble_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

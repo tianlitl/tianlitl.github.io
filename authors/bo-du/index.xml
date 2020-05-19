@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo Du | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/bo-du/</link>
+      <atom:link href="https://shiruipan.github.io/authors/bo-du/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bo Du</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Bo Du</title>
+      <link>https://shiruipan.github.io/authors/bo-du/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement Learning based Meta-path Discovery in Large-scale Heterogeneous Information Networks</title>
+      <link>https://shiruipan.github.io/publication/aaai-2020-wan/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive knowledge subgraph ensemble for robust and trustworthy knowledge graph completion</title>
+      <link>https://shiruipan.github.io/publication/wwwj-2019-wan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wwwj-2019-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-short Distance Aggregation Networks for Positive Unlabeled Graph Learning</title>
+      <link>https://shiruipan.github.io/publication/cikm-19-wu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cikm-19-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IEEE access special section editorial: advanced data analytics for large-scale complex data environments</title>
+      <link>https://shiruipan.github.io/publication/wu-ieee-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-ieee-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

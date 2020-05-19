@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liming Zhu | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/liming-zhu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/liming-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liming Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Liming Zhu</title>
+      <link>https://shiruipan.github.io/authors/liming-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Going Deep: Graph Convolutional Ladder-shape Networks</title>
+      <link>https://shiruipan.github.io/publication/aaai-2020-hu/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-hu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

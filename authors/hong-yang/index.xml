@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong Yang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/hong-yang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/hong-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Hong Yang</title>
+      <link>https://shiruipan.github.io/authors/hong-yang/</link>
+    </image>
+    
+    <item>
+      <title>Low-Bit Quantization for Attributed Network Representation Learning</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2019-yang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2019-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social recommendation with evolutionary opinion dynamics</title>
+      <link>https://shiruipan.github.io/publication/xiong-social-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/xiong-social-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active discriminative network representation learning</title>
+      <link>https://shiruipan.github.io/publication/gao-active-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/gao-active-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binarized attributed network embedding</title>
+      <link>https://shiruipan.github.io/publication/yang-binarized-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/yang-binarized-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

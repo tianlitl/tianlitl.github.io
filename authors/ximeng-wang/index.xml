@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ximeng Wang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/ximeng-wang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/ximeng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ximeng Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Ximeng Wang</title>
+      <link>https://shiruipan.github.io/authors/ximeng-wang/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Implicit Influence from Information Propagation for Social Recommendation</title>
+      <link>https://shiruipan.github.io/publication/tcyb-2019-xiong/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tcyb-2019-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identify topic relations in scientific literature using topic modeling</title>
+      <link>https://shiruipan.github.io/publication/chen-identify-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/chen-identify-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring distance-based semantic similarity using meronymy and hyponymy relations</title>
+      <link>https://shiruipan.github.io/publication/cai-measuring-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cai-measuring-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social recommendation with evolutionary opinion dynamics</title>
+      <link>https://shiruipan.github.io/publication/xiong-social-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/xiong-social-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid user experience evaluation method for mobile games</title>
+      <link>https://shiruipan.github.io/publication/yu-hybrid-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/yu-hybrid-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

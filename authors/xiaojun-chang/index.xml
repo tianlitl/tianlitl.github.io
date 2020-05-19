@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaojun Chang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/xiaojun-chang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/xiaojun-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaojun Chang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Xiaojun Chang</title>
+      <link>https://shiruipan.github.io/authors/xiaojun-chang/</link>
+    </image>
+    
+    <item>
+      <title>Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization</title>
+      <link>https://shiruipan.github.io/publication/cvpr-2020-zhang/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-2020-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Domain Adaptive Graph Convolutional Networks</title>
+      <link>https://shiruipan.github.io/publication/www-2020-wu/</link>
+      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-2020-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

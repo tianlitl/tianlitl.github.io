@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kuan Wu | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/kuan-wu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/kuan-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kuan Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Kuan Wu</title>
+      <link>https://shiruipan.github.io/authors/kuan-wu/</link>
+    </image>
+    
+    <item>
+      <title>Classifier ensemble for uncertain data stream classification</title>
+      <link>https://shiruipan.github.io/publication/pan-classifier-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-classifier-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

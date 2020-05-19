@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haishuai Wang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/haishuai-wang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/haishuai-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haishuai Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Haishuai Wang</title>
+      <link>https://shiruipan.github.io/authors/haishuai-wang/</link>
+    </image>
+    
+    <item>
+      <title>IEEE access special section editorial: advanced data analytics for large-scale complex data environments</title>
+      <link>https://shiruipan.github.io/publication/wu-ieee-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-ieee-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social recommendation with evolutionary opinion dynamics</title>
+      <link>https://shiruipan.github.io/publication/xiong-social-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/xiong-social-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time series feature learning with labeled and unlabeled data</title>
+      <link>https://shiruipan.github.io/publication/wang-time-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wang-time-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards large-scale social networks with online diffusion provenance detection</title>
+      <link>https://shiruipan.github.io/publication/wang-towards-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wang-towards-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal network representation for heterogeneous information networks</title>
+      <link>https://shiruipan.github.io/publication/hu-universal-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/hu-universal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally weighted learning: how and when does it work in Bayesian networks?</title>
+      <link>https://shiruipan.github.io/publication/wu-locally-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-locally-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining top-k minimal redundancy frequent patterns over uncertain databases</title>
+      <link>https://shiruipan.github.io/publication/wang-mining-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wang-mining-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
